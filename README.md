@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @exkizo
+- 👀 I’m interested in learning new stuff
+- 🌱 I’m currently learning new stuff
+- 💞️ I’m looking to collaborate on new stuff
+- 📫 How to reach me: mgjoao41@gmail.com
