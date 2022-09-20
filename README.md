@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jocorrei
-- 👀 I’m a 42 student, interested in becoming a blockchain developer
-- 🌱 I’m currently learning C, JavaScript, Python and Solidity
-- 💞️ I’m looking to be part of the web3 revolution, solving real world problems
+- 👀 Fullstack web2 dev and smart contract developer
+- 🌱 Currently working with Python, JavaScript, TypeScript, Solidity and AWS cloud services
 - 📫 How to reach me: mgjoao41@gmail.com
