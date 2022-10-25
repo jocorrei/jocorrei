@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @jocorrei
-- 👀 Fullstack web2 dev and smart contract developer, ex 42Lisbon student
+- 👀 Fullstack web2 dev and smart contract developer with an economics degree from Universidade do Porto and former 42Lisboa
 - 🌱 Currently working with Python, JavaScript, TypeScript, Solidity and AWS cloud services
 - 📫 How to reach me: mgjoao41@gmail.com
